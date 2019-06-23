@@ -1,3 +1,2 @@
-I am modifying now 
-Hi
+ Hi
  secon time creating file

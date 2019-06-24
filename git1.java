@@ -1,3 +1,2 @@
-Hi
-am from updated git java file
+Hi 
 am from git ex
